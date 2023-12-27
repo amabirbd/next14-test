@@ -6,7 +6,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## Live site
 
-Visit the live site here, [Live Site](https://next14-test-kohl.vercel.app/dashboard){:target="\_blank"}
+Visit the live site here, [Live Site](https://next14-test-kohl.vercel.app/dashboard)
 
 ## Signin credential
 
